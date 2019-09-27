@@ -22,9 +22,11 @@ Applied Deep Learning Capstone Project from edX by IBM: DL0320EN
 Do Pytorch or Keras
 [![Loading Data](https://img.youtube.com/vi/B8nZ2M96Lt/0.jpg)(https://www.youtube.com/watch?v=B8nZ2M96Ltg)
 
-- [ ] wget to download files
-- [ ] unzip files to training, testing, validation 
-- [ ] load the data
+Start with a blank notebook
+1. wget to download files
+2. unzip files to training, testing, validation 
+3. load the data
+4. import mat
 
 Pytorch
 https://www.youtube.com/watch?time_continue=57&v=_8fYqe8aLG0
