@@ -10,7 +10,7 @@ Applied Deep Learning Capstone Project from edX by IBM: DL0320EN
 ## If you've decided to join:
 
 - [x] [Chapter 0 - Welcome Completed](#chapter-0)
-- [ ] Chapter 1 - Loading Data  
+- [x] Chapter 1 - Loading Data  
 - [ ] Chapter 2 - Data Preparation   
 - [ ] Chapter 3 - Assessment Training Model  
 - [ ] Chapter 4 - Compare Two Models 
@@ -29,7 +29,16 @@ Start with a blank notebook
 4. import mat
 
 Pytorch
-https://www.youtube.com/watch?time_continue=57&v=_8fYqe8aLG0
+https://www.youtube.com/watch?time_continue=57&v=8fYqe8aLG0
+
+Keras
+https://youtu.be/y-C6h7SgBk0
+1. Use _ImageDataGenerator_ class
+2. Name of each folder represents class
+3. Import libraries
+4. Reshape Image
+5. Parameter batch size- size of minibatch
+6. Method _next_ to return numpy arrays
  
 ## Note
 
